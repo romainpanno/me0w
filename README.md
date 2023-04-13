@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------
 <h3 align='center'>
-  Bonjour bienvenue sur mon profil !
+  Bonjour bienvenue sur mon profil ! |
   Hello welcome to my profile !
 </h3>
 
