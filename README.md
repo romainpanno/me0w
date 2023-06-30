@@ -22,9 +22,9 @@
 <p align='center'>
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=romainpanno&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly&fire=EB5454" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=romainpanno&show_icons=true&count_private=true&theme=tokyonight&showicons=true" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/romainpanno?cardType=level&theme=tokyonight&preferLogin=false&Ring=DD2727&Border=DD000000" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romainpanno&&count_private=true&theme=tokyonight&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romainpanno&show_icons=true&theme=tokyonight&ring_color=DD2727&layout=compact" />
 </p>
 
 ------------------------------------------------------------------------------------
