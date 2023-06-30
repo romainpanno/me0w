@@ -24,7 +24,7 @@
   <br/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/romainpanno?cardType=level&theme=tokyonight&preferLogin=false&Ring=DD2727&Border=DD000000" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romainpanno&show_icons=true&theme=tokyonight&ring_color=DD2727&layout=compact" />
+  <img src="https://github-readme-stats-romainpanno.vercel.app/api/top-langs/?username=romainpanno&count_private=true&show_icons=true&theme=tokyonight&ring_color=DD2727&layout=compact" />
 </p>
 
 ------------------------------------------------------------------------------------
